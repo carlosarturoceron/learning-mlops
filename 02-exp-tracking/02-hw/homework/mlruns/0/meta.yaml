@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/learning-mlops/02-exp-tracking/02-hw/homework/mlruns/0
+creation_time: 1716871679175
+experiment_id: '0'
+last_update_time: 1716871679175
+lifecycle_stage: active
+name: Default
